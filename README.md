@@ -22,7 +22,7 @@ Nesse projeto foram utilizadas as seguintes bibliotecas:
 * Sensor Magnético(MC-38)
 * Jumpers
 
-##Circuito
+## Circuito
 
 A imagem a baixo é uma representação virtual do projeto fisico onde as conexões coloridas são as conexões referentes ao Módulo Ethernet e as conexões brancas são as 
 conexões do sensor magnético.
