@@ -45,10 +45,14 @@ void setup() {
 
 void loop() {
 
-      mqttClient.connect("lucas");
+     //Inicia o client MQTT
+      mqttClient.connect("lucas"); 
+    
+     //Le o estado do sensor magnético se está aberto ou fechado
       estado_sensor = digitalRead(pino2);
 
-    if (estado_sensor == 0)
+   //caso o sensor estiver junto, exibe na tela que o rack está fechado se não exibe que ele está aberto
+    if (estado_sensor == 0)  
 
     {
 
