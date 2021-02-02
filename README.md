@@ -1,6 +1,6 @@
 # Projeto MQTT
 
-##Objetivo
+## Objetivo
 
 O objetivo desse projeto foi utilizar um arduino uno com um sensor magnético para monitorar se a porta de um rack de rede está **ABERTA** OU **FECHADA**; essa informação é enviada
 via internet utilizando o protocolo MQTT(Message Queuing Telemetry Transport) para um servidor MQTT hospedado na **A**mazon **W**eb **S**ervice(AWS) e exibir as informações do
@@ -8,6 +8,6 @@ rack em um cliente MQTT([MQTT DASH](https://play.google.com/store/apps/details?i
 
 Segue abaixo uma represetanção do projeto.
 
-Format: ![Alt Text](https://camo.githubusercontent.com/7beef2d4780d87a603d7de49b2da0467c8537dff96575b628a04bd4010ebb1cc/68747470733a2f2f692e696d6775722e636f6d2f4d576870586b562e706e67)
+![Alt Text](https://camo.githubusercontent.com/7beef2d4780d87a603d7de49b2da0467c8537dff96575b628a04bd4010ebb1cc/68747470733a2f2f692e696d6775722e636f6d2f4d576870586b562e706e67)
 
 
