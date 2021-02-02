@@ -30,5 +30,5 @@ conexões do sensor magnético.
 ![Alt Text](https://camo.githubusercontent.com/ad1da211b35b60b23fb095a64e76dc6504d0c3229e853bd82a69a4d5d27bbb88/68747470733a2f2f692e696d6775722e636f6d2f594947477453472e706e67)
 
 
-[LINKEDIN](https://www.linkedin.com/in/lucas-silva-conrado25/)
+[[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Flinkedin-icons&psig=AOvVaw29ztc2B8fjEoR1PDYQ7dXd&ust=1612378050939000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICDjMPuy-4CFQAAAAAdAAAAABAD)][](https://www.linkedin.com/in/lucas-silva-conrado25/)
 
