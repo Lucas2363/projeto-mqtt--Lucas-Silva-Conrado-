@@ -55,8 +55,8 @@ void loop() {
       Serial.println("o rack esta fechado");
       mensagem = mqttClient.publish("lucas", "fechado");
       Serial.println(mensagem);
-      mqttClient.loop();
-      delay(500);
+      
+      
     }
 
     else
@@ -66,11 +66,11 @@ void loop() {
       Serial.println("o rack esta aberto");
       mensagem = mqttClient.publish("lucas", "aberto");
       Serial.println(mensagem);
-      mqttClient.loop();
-      delay(500);
+      
+      
     }
     
-     
+     mqttClient.loop();
 
     
 }
